@@ -9,19 +9,16 @@ KPI Metric Boxes (top row):
 🟩 Top Region — highest performing region by revenue
 
 Chart 1 — Total Sales by Region (Clustered Column Chart):
-
 Compares revenue across North, South, East, West
 Instantly shows which region drives the most revenue
 Connected to Region slicer
 
 Chart 2 — Sales by Product (Horizontal Bar Chart):
-
 Ranks all 12 products by total sales
 Sorted descending so top products appear first
 Connected to Product and Category slicers
 
 Chart 3 — Monthly Sales Trend (Line Chart):
-
 Plots total revenue for each month Jan–Dec 2024
 Shows seasonality, growth trends, and dips
 Connected to Timeline (Date) slicer
